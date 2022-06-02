@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Python
 - 📫 To reach me: dimitryzub@gmail.com
 
-## My latest blog posts
+## My & Сolleagues latest blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Web Scraping all ResearchGate Publications in Python](https://serpapi.com/blog/web-scraping-all-researchgate-publications-in-python/)
 - [How to scrape Knowledge Graph from Google Search with Node.js](https://serpapi.com/blog/how-to-scrape-knowledge-graph-from-google-search-with-node-js/)
