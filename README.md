@@ -7,6 +7,11 @@
 ## I'm coding in
 
 <!--START_SECTION:waka-->
+
+```text
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 ## My & Сolleagues latest blog posts
