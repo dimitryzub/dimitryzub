@@ -7,3 +7,7 @@
 ## My latest blog posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+
+## My latest StackOverflow activity
+<!-- STACKOVERFLOW:START -->
+<!-- STACKOVERFLOW:END -->
