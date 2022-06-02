@@ -1,7 +1,7 @@
 # Hi there 👋
 
 - 🔭 I’m currently working on improving [SerpApi](https://github.com/serpapi) and showing other devs how to use it.
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python amoung other languages that is needed at the certain moment.
 - 📫 To reach me: dimitryzub@gmail.com
 
 ## My & Сolleagues latest blog posts
