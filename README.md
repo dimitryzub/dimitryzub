@@ -6,6 +6,11 @@
 
 ## My latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Web Scraping all ResearchGate Publications in Python](https://serpapi.com/blog/web-scraping-all-researchgate-publications-in-python/)
+- [How to scrape Knowledge Graph from Google Search with Node.js](https://serpapi.com/blog/how-to-scrape-knowledge-graph-from-google-search-with-node-js/)
+- [Scrape ResearchGate All Authors, Researchers in Python](https://serpapi.com/blog/scrape-researchgate-all-authors-researchers-in-python/)
+- [How to scrape Google Play Apps with Node.js](https://serpapi.com/blog/how-to-scrape-google-play-apps/)
+- [Scrape ResearchGate Profile Page in Python](https://serpapi.com/blog/scrape-researchgate-profile-page-in-python/)
 <!-- BLOG-POST-LIST:END -->
 
 ## My latest StackOverflow activity
