@@ -9,6 +9,8 @@
 <!--START_SECTION:waka-->
 
 ```text
+From: 26 May 2022 - To: 02 June 2022
+
 Other        4 hrs 27 mins   █████████████████████░░░░   84.21 %
 ```
 
