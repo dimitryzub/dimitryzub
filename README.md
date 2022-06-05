@@ -4,17 +4,6 @@
 - 🌱 I’m currently learning Python amoung other languages that is needed at the certain moment.
 - 📫 To reach me: dimitryzub@gmail.com
 
-## I'm coding in
-
-<!--START_SECTION:waka-->
-
-```text
-From: 28 May 2022 - To: 04 June 2022
-
-Other        8 hrs 11 mins   ██████████████████▒░░░░░░   72.84 %
-```
-
-<!--END_SECTION:waka-->
 
 ## My & Сolleagues latest blog posts
 <!-- BLOG-POST-LIST:START -->
