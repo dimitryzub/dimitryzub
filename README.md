@@ -1,3 +1,7 @@
+![image](https://user-images.githubusercontent.com/78694043/173765763-2ac383da-2612-45c3-b7fc-819728ab8c0d.png)
+
+Donate to Ukraine if you can through [Ministry of Digital Trasformation of Ukraine](https://donate.thedigital.gov.ua/) that supports donation in crypto and cash.
+
 # Hi there 👋
 
 - 🔭 I’m currently working on improving [SerpApi](https://github.com/serpapi) and showing other devs how to use it.
