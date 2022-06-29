@@ -11,11 +11,11 @@ Donate to Ukraine if you can through [Ministry of Digital Trasformation of Ukrai
 
 ## My & Сolleagues latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to scrape Google Scholar profiles results with Node.js](https://serpapi.com/blog/how-to-scrape-google-scholar-profiles-results-with-node-js/)
 - [Dynamic Scraping Without Libraries](https://serpapi.com/blog/dynamic-scraping-without-libraries/)
 - [Creating N1QL Labelled Image Database using Couchbase, FastAPI, and SerpApi](https://serpapi.com/blog/creating-n1ql-labelled-image-database-couchbase-fastapi/)
 - [How to Scrape eBay Organic Results with Node.js](https://serpapi.com/blog/how-to-scrape-ebay-organic-results-with-node-js/)
 - [How to scrape Google Scholar organic results with Node.js](https://serpapi.com/blog/how-to-scrape-google-scholar-organic-results-with-node-js/)
-- [Automatic Training using FastAPI, Pytorch and SerpApi](https://serpapi.com/blog/automatic-training-fastapi-pytorch-serpapi/)
 <!-- BLOG-POST-LIST:END -->
 
 ## My latest StackOverflow activity
