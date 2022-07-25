@@ -11,11 +11,11 @@ Donate to Ukraine if you can through [Ministry of Digital Trasformation of Ukrai
 
 ## My & Сolleagues latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Web Scraping Google Maps Place with Nodejs](https://serpapi.com/blog/web-scraping-google-maps-place-with-nodejs/)
 - [AI Training at Scale](https://serpapi.com/blog/automatic-training-at-scale/)
 - [Web Scraping Google Maps Places with Nodejs](https://serpapi.com/blog/web-scraping-google-maps-places-with-nodejs/)
 - [Intellectual Properties of images scrapped via our Google Images API](https://serpapi.com/blog/intellectual-property/)
 - [Empower Your Training with SERP Data](https://serpapi.com/blog/empower-your-training-with-serp-data/)
-- [How to get unlimited &quot;People Also Ask&quot; results in Google Search](https://serpapi.com/blog/getting-more-q-a-from-people-also-ask-in-google-search/)
 <!-- BLOG-POST-LIST:END -->
 
 ## My latest StackOverflow activity
