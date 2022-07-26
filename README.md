@@ -12,10 +12,10 @@ Donate to Ukraine if you can through the [United24](https://u24.gov.ua/), the in
 ## My & Сolleagues latest blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Web Scraping Google Maps Place with Nodejs](https://serpapi.com/blog/web-scraping-google-maps-place-with-nodejs/)
+- [How to Detect Google Title Tag Rewriting with SerpApi](https://serpapi.com/blog/google-title-tag-rewriting-with-serpapi-python/)
 - [AI Training at Scale](https://serpapi.com/blog/automatic-training-at-scale/)
 - [Web Scraping Google Maps Places with Nodejs](https://serpapi.com/blog/web-scraping-google-maps-places-with-nodejs/)
 - [Intellectual Properties of images scrapped via our Google Images API](https://serpapi.com/blog/intellectual-property/)
-- [Empower Your Training with SERP Data](https://serpapi.com/blog/empower-your-training-with-serp-data/)
 <!-- BLOG-POST-LIST:END -->
 
 ## My latest StackOverflow activity
