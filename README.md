@@ -11,11 +11,11 @@ Donate to Ukraine if you can through the [United24](https://u24.gov.ua/), the in
 
 ## My & Сolleagues latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Web Scraping Google Maps Reviews with Nodejs](https://serpapi.com/blog/web-scraping-google-maps-reviews-with-nodejs/)
 - [Scrape Google Shopping Tab with Python](https://serpapi.com/blog/web-scraping-google-shopping-tab-in-python/)
 - [Scrape Google Finance Markets in Python](https://serpapi.com/blog/scrape-google-finance-markets-in-python/)
 - [ML Model with Automated Creation](https://serpapi.com/blog/ml-model-with-automated-creation/)
 - [Scrape Google aggregated product results in mobile](https://serpapi.com/blog/use-google-to-find-style-ideas/)
-- [Web Scraping Google Finance Main Page in Python](https://serpapi.com/blog/web-scraping-google-finance/)
 <!-- BLOG-POST-LIST:END -->
 
 ## My latest StackOverflow activity
