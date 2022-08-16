@@ -11,11 +11,11 @@ Donate to Ukraine if you can through the [United24](https://u24.gov.ua/), the in
 
 ## My & Сolleagues latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Using Google Reverse Images API from SerpApi](https://serpapi.com/blog/scrape-google-shopping-tab-with-python/)
 - [Web scraping YouTube video page with Nodejs](https://serpapi.com/blog/web-scraping-youtube-video-page-with-nodejs/)
 - [Meta Learning](https://serpapi.com/blog/meta-learning/)
 - [Python Machine Learning](https://serpapi.com/blog/python-machine-learning/)
 - [Web scraping YouTube secondary search results with Nodejs](https://serpapi.com/blog/web-scraping-youtube-secondary-search-results-with-nodejs/)
-- [Web scraping YouTube search video results with Nodejs](https://serpapi.com/blog/web-scraping-youtube-search-video-results-with-nodejs/)
 <!-- BLOG-POST-LIST:END -->
 
 ## My latest StackOverflow activity
