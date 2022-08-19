@@ -11,11 +11,11 @@ Donate to Ukraine if you can through the [United24](https://u24.gov.ua/), the in
 
 ## My & Сolleagues latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Find the GPS Coordinates of any place with Google Maps](https://serpapi.com/blog/how-to-find-the-gps-coordinates-of-any-place-with-google-maps/)
 - [Scrape YouTube video page with Python](https://serpapi.com/blog/scrape-youtube-video-page-with-python/)
 - [Using Google Reverse Images API from SerpApi](https://serpapi.com/blog/using-google-reverse-images-api/)
 - [Web scraping YouTube video page with Nodejs](https://serpapi.com/blog/web-scraping-youtube-video-page-with-nodejs/)
 - [Meta Learning](https://serpapi.com/blog/meta-learning/)
-- [Python Machine Learning](https://serpapi.com/blog/python-machine-learning/)
 <!-- BLOG-POST-LIST:END -->
 
 ## My latest StackOverflow activity
