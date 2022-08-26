@@ -11,11 +11,11 @@ Donate to Ukraine if you can through the [United24](https://u24.gov.ua/), the in
 
 ## My & Сolleagues latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Scrape YouTube autocomplete results with Python](https://serpapi.com/blog/scrape-youtube-autocomplete-results-with-python/)
 - [Automatic Images Classifier Generator](https://serpapi.com/blog/automatic-images-classifier-generator/)
 - [How To Automate Keyword Research with Google Autosuggest](https://serpapi.com/blog/keyword-research-automation-google-autosuggest-python/)
 - [Tips and Tricks of Google Search API](https://serpapi.com/blog/tips-and-tricks-of-google-search-api/)
 - [Machine Learning Testing](https://serpapi.com/blog/machine-learning-testing/)
-- [How to Find the GPS Coordinates of any place with Google Maps](https://serpapi.com/blog/how-to-find-the-gps-coordinates-of-any-place-with-google-maps/)
 <!-- BLOG-POST-LIST:END -->
 
 ## My latest StackOverflow activity
