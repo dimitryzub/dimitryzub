@@ -11,11 +11,11 @@ Donate to Ukraine if you can through the [United24](https://u24.gov.ua/), the in
 
 ## My & Сolleagues latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Advantages of SERP Data in Ensemble Learning](https://serpapi.com/blog/advantages-of-serp-data-in-ensemble-learning/)
 - [Web scraping Google Trends with Nodejs](https://serpapi.com/blog/web-scraping-google-trends-with-nodejs/)
 - [Automatic Data Collection For Machine Learning Models](https://serpapi.com/blog/automatic-data-collection-for-machine-learning-models/)
 - [Web scraping YouTube autocomplete with Nodejs](https://serpapi.com/blog/web-scraping-youtube-autocomplete-with-nodejs/)
 - [Scrape YouTube autocomplete results with Python](https://serpapi.com/blog/scrape-youtube-autocomplete-results-with-python/)
-- [Automatic Images Classifier Generator](https://serpapi.com/blog/automatic-images-classifier-generator/)
 <!-- BLOG-POST-LIST:END -->
 
 ## My latest StackOverflow activity
