@@ -11,11 +11,11 @@ Donate to Ukraine if you can through the [United24](https://u24.gov.ua/), the in
 
 ## My & Сolleagues latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Web Scraping all Questions from ResearchGate Search in Python](https://serpapi.com/blog/web-scraping-all-questions-from-researchgate-search-in-python/)
 - [Scrape Google Trends Daily Search Trends with Python](https://serpapi.com/blog/scrape-google-daily-search-trends-with-python/)
 - [Web scraping Google Jobs organic results with Nodejs](https://serpapi.com/blog/web-scraping-google-jobs-organic-results-with-nodejs/)
 - [Advantages of SERP Data in Ensemble Learning](https://serpapi.com/blog/advantages-of-serp-data-in-ensemble-learning/)
 - [Web scraping Google Trends with Nodejs](https://serpapi.com/blog/web-scraping-google-trends-with-nodejs/)
-- [Scrape Google Realtime Search Trends with Python](https://serpapi.com/blog/scrape-google-realtime-search-trends-with-python/)
 <!-- BLOG-POST-LIST:END -->
 
 ## My latest StackOverflow activity
