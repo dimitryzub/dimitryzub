@@ -11,11 +11,11 @@ Donate to Ukraine if you can through the [United24](https://u24.gov.ua/), the in
 
 ## My & Сolleagues latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Creating Twitter Bot Using SerpApi](https://serpapi.com/blog/creating-twitter-bot-using-serpapi/)
 - [Web scraping Google Trends Realtime search with Nodejs](https://serpapi.com/blog/web-scraping-google-trends-realtime-search-with-nodejs/)
 - [Scrape Google Arts &amp; Culture - Artists: All/A-Z/Time results with Python](https://serpapi.com/blog/scrape-google-arts-artists-all-az-time-results/)
 - [Web Scraping Google Trends Daily Search with Nodejs](https://serpapi.com/blog/web-scraping-google-trends-daily-search-with-nodejs/)
 - [Web Scraping all Questions from ResearchGate Search in Python](https://serpapi.com/blog/web-scraping-all-questions-from-researchgate-search-in-python/)
-- [Scrape Google Trends Daily Search Trends with Python](https://serpapi.com/blog/scrape-google-daily-search-trends-with-python/)
 <!-- BLOG-POST-LIST:END -->
 
 ## My latest StackOverflow activity
