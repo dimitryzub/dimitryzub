@@ -11,11 +11,11 @@ Donate to Ukraine if you can through the [United24](https://u24.gov.ua/), the in
 
 ## My & Сolleagues latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Web scraping Google Play Movies &amp; TV with Nodejs](https://serpapi.com/blog/web-scraping-google-play-movies-tv-with-nodejs/)
 - [13 ways to scrape any public data from any website](https://serpapi.com/blog/13-ways-to-scrape-any-data-from-any-website/)
 - [Scrape Google Play Games with Python](https://serpapi.com/blog/scrape-google-play-games-with-python/)
 - [Scrape Google Jobs organic results with Python](https://serpapi.com/blog/scrape-google-jobs-organic-results-with-python/)
 - [Web Scraping Google Images with Nodejs](https://serpapi.com/blog/web-scraping-google-images-with-nodejs/)
-- [Scrape All Google Play App Reviews in Python](https://serpapi.com/blog/scrape-all-google-play-app-reviews-in-python/)
 <!-- BLOG-POST-LIST:END -->
 
 ## My latest StackOverflow activity
