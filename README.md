@@ -20,9 +20,9 @@ Donate to Ukraine if you can through the [United24](https://u24.gov.ua/), the in
 
 ## My latest StackOverflow activity
 <!-- STACKOVERFLOW:START -->
+- [Answer by Dmitriy Zub for How does Google Finance update stock prices?](https://stackoverflow.com/questions/16485511/how-does-google-finance-update-stock-prices/74042072#74042072)
 - [Answer by Dmitriy Zub for Python: want to scrape first row &lpar;&lt;tr&gt;&rpar; of each table](https://stackoverflow.com/questions/74040999/python-want-to-scrape-first-row-tr-of-each-table/74041552#74041552)
 - [Answer by Dmitriy Zub for How to parse and get clean image source from Bing/Google news feed?](https://stackoverflow.com/questions/57373536/how-to-parse-and-get-clean-image-source-from-bing-google-news-feed/74040648#74040648)
 - [Answer by Dmitriy Zub for Beautiful Soup not returning anything I expected](https://stackoverflow.com/questions/65158345/beautiful-soup-not-returning-anything-i-expected/74039427#74039427)
 - [Answer by Dmitriy Zub for Google Scholar profile scraping](https://stackoverflow.com/questions/74034290/google-scholar-profile-scraping/74037936#74037936)
-- [Answer by Dmitriy Zub for VSCode regex find &amp; replace submatch math?](https://stackoverflow.com/questions/34618383/vscode-regex-find-replace-submatch-math/73973842#73973842)
 <!-- STACKOVERFLOW:END -->
