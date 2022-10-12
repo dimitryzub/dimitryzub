@@ -20,9 +20,9 @@ Donate to Ukraine if you can through the [United24](https://u24.gov.ua/), the in
 
 ## My latest StackOverflow activity
 <!-- STACKOVERFLOW:START -->
+- [Answer by Dmitriy Zub for Beautiful Soup not returning anything I expected](https://stackoverflow.com/questions/65158345/beautiful-soup-not-returning-anything-i-expected/74039427#74039427)
 - [Answer by Dmitriy Zub for Google Scholar profile scraping](https://stackoverflow.com/questions/74034290/google-scholar-profile-scraping/74037936#74037936)
 - [Answer by Dmitriy Zub for VSCode regex find &amp; replace submatch math?](https://stackoverflow.com/questions/34618383/vscode-regex-find-replace-submatch-math/73973842#73973842)
 - [Answer by Dmitriy Zub for Start a Git commit message with a hashmark &lpar;#&rpar;](https://stackoverflow.com/questions/2788092/start-a-git-commit-message-with-a-hashmark/73891142#73891142)
 - [Answer by Dmitriy Zub for Selenium unable to locate &quot;app-id-title&quot; element when trying to load google play page](https://stackoverflow.com/questions/54554261/selenium-unable-to-locate-app-id-title-element-when-trying-to-load-google-play/72490391#72490391)
-- [Answer by Dmitriy Zub for Google Scholar blocked me from using search_pubs](https://stackoverflow.com/questions/65646994/google-scholar-blocked-me-from-using-search-pubs/72444274#72444274)
 <!-- STACKOVERFLOW:END -->
