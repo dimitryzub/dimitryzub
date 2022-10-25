@@ -11,11 +11,11 @@ Donate to Ukraine if you can through the [United24](https://u24.gov.ua/), the in
 
 ## My & Сolleagues latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [SerpApi Demo Project: Walmart Coffee Exploratory Data Analysis](https://serpapi.com/blog/serpapi-demo-project-walmart-coffee-exploratory-data-analysis/)
 - [Web scraping Google Play Children &lpar;Kids&rpar; with Nodejs](https://serpapi.com/blog/web-scraping-google-play-children-kids-with-nodejs/)
 - [Web scraping Google Play Games with Nodejs](https://serpapi.com/blog/web-scraping-google-play-games-with-nodejs/)
 - [Scrape Google Play Books with Python](https://serpapi.com/blog/scrape-google-play-books-with-python/)
 - [Scrape Google Play Children &lpar;Kids&rpar; with Python](https://serpapi.com/blog/scrape-google-play-children-kids-with-python/)
-- [Scrape Google Play Movies &amp; TV with Python](https://serpapi.com/blog/scrape-google-play-movies-and-tv-with-python/)
 <!-- BLOG-POST-LIST:END -->
 
 ## My latest StackOverflow activity
