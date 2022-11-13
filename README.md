@@ -11,11 +11,11 @@ Donate to Ukraine if you can through the [United24](https://u24.gov.ua/), the in
 
 ## My & Сolleagues latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Web scraping Google Events Results with Nodejs](https://serpapi.com/blog/web-scraping-google-events-results-with-nodejs/)
 - [Web scraping Google Play App Reviews with Nodejs](https://serpapi.com/blog/web-scraping-google-play-app-reviews-with-nodejs/)
 - [Scrape Brave Images with Python](https://serpapi.com/blog/scrape-brave-images-with-python/)
 - [SerpApi Changelog: October, 2022](https://serpapi.com/blog/serpapi-changelog-october-2022/)
 - [Using Google Trends API from SerpApi](https://serpapi.com/blog/scrape-google-trends-with-python/)
-- [Web scraping Google Books Ngram Viewer with Nodejs](https://serpapi.com/blog/web-scraping-google-books-ngrams-with-nodejs/)
 <!-- BLOG-POST-LIST:END -->
 
 ## My latest StackOverflow activity
