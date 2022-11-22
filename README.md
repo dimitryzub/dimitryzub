@@ -11,11 +11,11 @@ Donate to Ukraine if you can through the [United24](https://u24.gov.ua/), the in
 
 ## My & Сolleagues latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Web scraping Google Arts &amp; Culture Artist Results with Nodejs](https://serpapi.com/blog/web-scraping-google-arts-culture-artist-results-with-nodejs/)
 - [Scrape Google Events Results with Python](https://serpapi.com/blog/scrape-google-events-results-with-python/)
 - [SerpApi Async Requests with Pagination using Python](https://serpapi.com/blog/serpapi-async-requests-with-pagination-using-python/)
 - [Web scraping Google Jobs Listing with Nodejs](https://serpapi.com/blog/web-scraping-google-jobs-listing-with-nodejs/)
 - [Using Google Jobs Listing Results API from SerpApi](https://serpapi.com/blog/using-google-jobs-listing-api-from-serpapi/)
-- [Benchmarking Ruby 3.1 &lpar;+YJIT&rpar; vs Ruby 2.7](https://serpapi.com/blog/benchmarking-ruby-3-1-yjit-ruby-2-7/)
 <!-- BLOG-POST-LIST:END -->
 
 ## My latest StackOverflow activity
