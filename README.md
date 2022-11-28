@@ -11,11 +11,11 @@ Donate to Ukraine if you can through the [United24](https://u24.gov.ua/), the in
 
 ## My & Сolleagues latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Web scraping Google Shopping Product Specs with Nodejs](https://serpapi.com/blog/web-scraping-google-shopping-product-specs-with-nodejs/)
 - [Build Simple CLI-Based Voice Assistant with PyAudio, Speech Recognition, pyttsx3 and SerpApi](https://serpapi.com/blog/build-simple-cli-based-voice-assistent-with-serpapi/)
 - [Web scraping Google Shopping Product Online Sellers with Nodejs](https://serpapi.com/blog/web-scraping-google-shopping-product-online-sellers-with-nodejs/)
 - [One query for all shopping websites with SerpApi - Yahoo shopping](https://serpapi.com/blog/one-query-for-all-shopping-websites-with-serpapi-yahoo-shopping/)
 - [Web scraping Google Shopping Product Reviews with Nodejs](https://serpapi.com/blog/web-scraping-google-shopping-product-reviews-with-nodejs/)
-- [Web scraping Google Shopping Product Page with Nodejs](https://serpapi.com/blog/web-scraping-google-shopping-product-page-with-nodejs/)
 <!-- BLOG-POST-LIST:END -->
 
 ## My latest StackOverflow activity
