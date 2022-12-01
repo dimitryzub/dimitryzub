@@ -11,11 +11,11 @@ Donate to Ukraine if you can through the [United24](https://u24.gov.ua/), the in
 
 ## My & Сolleagues latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Benchmarking Puma 4 vs. Puma 5 vs. Puma 6](https://serpapi.com/blog/benchmarking-puma-4-puma-5-puma-6/)
 - [Web scraping Google Finance Main Page with Nodejs](https://serpapi.com/blog/web-scraping-google-finance-main-page-with-nodejs/)
 - [Scrape Google Product Online Sellers with Python](https://serpapi.com/blog/scrape-google-product-online-sellers-with-python/)
 - [Using Google Product Local Sellers API from SerpApi](https://serpapi.com/blog/scrape-google-product-local-sellers-with-python/)
 - [Web scraping Google Shopping Product Specs with Nodejs](https://serpapi.com/blog/web-scraping-google-shopping-product-specs-with-nodejs/)
-- [Build Simple CLI-Based Voice Assistant with PyAudio, Speech Recognition, pyttsx3 and SerpApi](https://serpapi.com/blog/build-simple-cli-based-voice-assistent-with-serpapi/)
 <!-- BLOG-POST-LIST:END -->
 
 ## My latest StackOverflow activity
