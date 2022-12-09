@@ -14,8 +14,8 @@ Donate to Ukraine if you can through the [United24](https://u24.gov.ua/), the in
 - [Web scraping Yelp Organic And Ads Results with Nodejs](https://serpapi.com/blog/web-scraping-yelp-organic-and-ads-results-with-nodejs/)
 - [Getting Google Maps Business Listing with SerpApi Google Sheets extension](https://serpapi.com/blog/getting-google-maps-business-listing-with-serpapi-google-sheets-extension/)
 - [Web Scraping Google Shopping Product Nearby Sellers with Nodejs](https://serpapi.com/blog/web-scraping-google-shopping-product-nearby-sellers-with-nodejs/)
+- [Scrape Google Product Specs Results with Python](https://serpapi.com/blog/scrape-google-product-specs-results-with-python/)
 - [Using Google Maps Local Results API from SerpApi](https://serpapi.com/blog/using-google-maps-local-results-from-serpapi/)
-- [Benchmarking Puma 4 vs. Puma 5 vs. Puma 6](https://serpapi.com/blog/benchmarking-puma-4-puma-5-puma-6/)
 <!-- BLOG-POST-LIST:END -->
 
 ## My latest StackOverflow activity
