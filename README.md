@@ -11,11 +11,11 @@ Donate to Ukraine if you can through the [United24](https://u24.gov.ua/), the in
 
 ## My & Сolleagues latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Benchmarking Rails 6 vs. Rails 7](https://serpapi.com/blog/benchmarking-rails-6-vs-rails-7/)
 - [Using Google Maps Place Results API from SerpApi using Python](https://serpapi.com/blog/using-google-maps-place-results-api-from-serpapi/)
 - [Optimizing JSON performance in Rails](https://serpapi.com/blog/benchmarking-oj-vs-json/)
 - [Using Google Maps Reviews API from SerpApi](https://serpapi.com/blog/using-google-maps-reviews-api-from-serpapi/)
 - [Web scraping Yelp Organic And Ads Results with Nodejs](https://serpapi.com/blog/web-scraping-yelp-organic-and-ads-results-with-nodejs/)
-- [Getting Google Maps Business Listing with SerpApi Google Sheets extension](https://serpapi.com/blog/getting-google-maps-business-listing-with-serpapi-google-sheets-extension/)
 <!-- BLOG-POST-LIST:END -->
 
 ## My latest StackOverflow activity
