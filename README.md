@@ -11,11 +11,11 @@ Donate to Ukraine if you can through the [United24](https://u24.gov.ua/), the in
 
 ## My & Сolleagues latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [When and How to use AI Solutions in your Product?](https://serpapi.com/blog/when-and-how-to-use-ai-solutions-in-your-product/)
+- [A CPU benchmark of cloud providers: DigitalOcean vs. Vultr vs. Equinix](https://serpapi.com/blog/a-comparison-of-cloud-providers-digicalocean-vs-vultr-vs-equinix/)
 - [Web scraping Yelp Filters with Nodejs](https://serpapi.com/blog/web-scraping-yelp-filters-with-nodejs/)
 - [Benchmarking Rails 6 vs. Rails 7](https://serpapi.com/blog/benchmarking-rails-6-vs-rails-7/)
 - [Using Google Maps Place Results API from SerpApi using Python](https://serpapi.com/blog/using-google-maps-place-results-api-from-serpapi/)
-- [Optimizing JSON performance in Rails](https://serpapi.com/blog/benchmarking-oj-vs-json/)
-- [Using Google Maps Reviews API from SerpApi](https://serpapi.com/blog/using-google-maps-reviews-api-from-serpapi/)
 <!-- BLOG-POST-LIST:END -->
 
 ## My latest StackOverflow activity
