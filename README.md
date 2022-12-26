@@ -11,7 +11,7 @@ Donate to Ukraine if you can through the [United24](https://u24.gov.ua/), the in
 
 ## My & Сolleagues latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to reverse engineer a JSON API on a single page application](https://serpapi.com/blog/how-to-reverse-engineer-a-json-api/)
+- [How to reverse engineer a JSON API on a single page application](https://serpapi.com/blog/how-to-reverse-engineer-a-json-api-spa/)
 - [Web scraping Yelp Reviews with Nodejs](https://serpapi.com/blog/web-scraping-yelp-reviews-with-nodejs/)
 - [When and How to use AI Solutions in your Product?](https://serpapi.com/blog/when-and-how-to-use-ai-solutions-in-your-product/)
 - [A CPU benchmark of cloud providers: DigitalOcean vs. Vultr vs. Equinix](https://serpapi.com/blog/a-comparison-of-cloud-providers-digicalocean-vs-vultr-vs-equinix/)
