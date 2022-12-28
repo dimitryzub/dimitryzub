@@ -11,11 +11,11 @@ Donate to Ukraine if you can through the [United24](https://u24.gov.ua/), the in
 
 ## My & Сolleagues latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Maximize Your App&#39;s Visibility and Downloads with Multiple Regression and Apple App Store Search Scraper API](https://serpapi.com/blog/maximize-your-apps-visibility-and-downloads-with-multiple-regression-and-apple-app-store-search-scraper-api/)
 - [Using Yelp Reviews API from SerpApi with Python](https://serpapi.com/blog/using-yelp-reviews-api-from-serpapi-with-python/)
 - [How to reverse engineer a JSON API on a single page application](https://serpapi.com/blog/how-to-reverse-engineer-a-json-api-spa/)
 - [Web scraping Yelp Reviews with Nodejs](https://serpapi.com/blog/web-scraping-yelp-reviews-with-nodejs/)
 - [Scrape Yelp Filters, Ad and Organic Results with Python](https://serpapi.com/blog/scrape-yelp-filters-ad-and-organic-results-with-python/)
-- [When and How to use AI Solutions in your Product?](https://serpapi.com/blog/when-and-how-to-use-ai-solutions-in-your-product/)
 <!-- BLOG-POST-LIST:END -->
 
 ## My latest StackOverflow activity
