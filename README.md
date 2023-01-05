@@ -11,11 +11,11 @@ Donate to Ukraine if you can through the [United24](https://u24.gov.ua/), the in
 
 ## My & Сolleagues latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Web scraping Apple App Store Product Info And Reviews with Nodejs](https://serpapi.com/blog/web-scraping-apple-app-store-product-info-and-reviews-with-nodejs/)
 - [Web scraping Google Lens Results with Nodejs](https://serpapi.com/blog/web-scraping-google-lens-results-with-nodejs/)
 - [Using Google Maps Photos API from SerpApi](https://serpapi.com/blog/using-google-maps-photos-api-from-serpapi/)
 - [Web scraping Apple App Store Search with Nodejs](https://serpapi.com/blog/web-scraping-apple-app-store-search-with-nodejs/)
 - [Product Page Optimization for Mobile Apps: Utilizing Apple App Store Product Page Scraper API for Polynomial Regression](https://serpapi.com/blog/product-page-optimization-for-mobile-apps-utilizing-apple-app-store-product-page-scraper-api-for-polynomial-regression/)
-- [Topic Analysis of App Store Reviews: A Heatmap Approach with the App Store Reviews Scraper API](https://serpapi.com/blog/topic-analysis-of-app-store-reviews-a-heatmap-approach-with-the-app-store-reviews-scraper-api/)
 <!-- BLOG-POST-LIST:END -->
 
 ## My latest StackOverflow activity
