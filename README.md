@@ -11,11 +11,11 @@ Donate to Ukraine if you can through the [United24](https://u24.gov.ua/), the in
 
 ## My & Сolleagues latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Making YouTube Mentions Tracker in Python](https://serpapi.com/blog/making-youtube-mentions-tracker-in-python/)
 - [Open Source AI Image Classifier with Automatic Dataset Creator](https://serpapi.com/blog/open-source-ai-image-classifier-with-automatic-dataset-creator/)
 - [Web scraping Apple App Store Product Info And Reviews with Nodejs](https://serpapi.com/blog/web-scraping-apple-app-store-product-info-and-reviews-with-nodejs/)
 - [Web scraping Google Lens Results with Nodejs](https://serpapi.com/blog/web-scraping-google-lens-results-with-nodejs/)
 - [Using Google Maps Photos API from SerpApi](https://serpapi.com/blog/using-google-maps-photos-api-from-serpapi/)
-- [Web scraping Apple App Store Search with Nodejs](https://serpapi.com/blog/web-scraping-apple-app-store-search-with-nodejs/)
 <!-- BLOG-POST-LIST:END -->
 
 ## My latest StackOverflow activity
