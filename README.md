@@ -12,10 +12,10 @@ Donate to Ukraine if you can through the [United24](https://u24.gov.ua/), the in
 ## My & Сolleagues latest blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Web scraping The Home Depot Product Info with Nodejs](https://serpapi.com/blog/web-scraping-the-home-depot-product-info-with-nodejs/)
+- [Using The Home Depot Search API from SerpApi](https://serpapi.com/blog/using-the-home-depot-search-api-from-serpapi/)
 - [How to create Ruby C extension and debug in VS Code](https://serpapi.com/blog/how-to-debug-ruby-c-extension-in-vs-code/)
 - [Web scraping The Home Depot Search with Nodejs](https://serpapi.com/blog/web-scraping-the-home-depot-search-with-nodejs/)
 - [Making YouTube Mentions Tracker in Python](https://serpapi.com/blog/making-youtube-mentions-tracker-in-python/)
-- [Open Source AI Image Classifier with Automatic Dataset Creator](https://serpapi.com/blog/open-source-ai-image-classifier-with-automatic-dataset-creator/)
 <!-- BLOG-POST-LIST:END -->
 
 ## My latest StackOverflow activity
