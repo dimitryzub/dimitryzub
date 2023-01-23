@@ -11,11 +11,11 @@ Donate to Ukraine if you can through the [United24](https://u24.gov.ua/), the in
 
 ## My & Сolleagues latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Analyzing the Distribution of Problems in Competition Reviews](https://serpapi.com/blog/analyzing-the-distribution-of-problems-in-competitions-reviews/)
 - [How to detect memory leak in Ruby C extension](https://serpapi.com/blog/how-to-detect-memory-leak-in-ruby-c-extension/)
 - [Using Walmart Product API from SerpApi](https://serpapi.com/blog/using-walmart-product-api-from-serpapi/)
 - [Web scraping The Home Depot Product Info with Nodejs](https://serpapi.com/blog/web-scraping-the-home-depot-product-info-with-nodejs/)
 - [Using The Home Depot Search API from SerpApi](https://serpapi.com/blog/using-the-home-depot-search-api-from-serpapi/)
-- [How to create Ruby C extension and debug in VS Code](https://serpapi.com/blog/how-to-debug-ruby-c-extension-in-vs-code/)
 <!-- BLOG-POST-LIST:END -->
 
 ## My latest StackOverflow activity
