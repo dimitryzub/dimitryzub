@@ -11,11 +11,11 @@ Donate to Ukraine if you can through the [United24](https://u24.gov.ua/), the in
 
 ## My & Сolleagues latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Web scraping Walmart Search with Nodejs](https://serpapi.com/blog/web-scraping-walmart-search-with-nodejs/)
+- [LLMs vs SerpApi: A Comparative Analysis of the Webscraping Capabilities](https://serpapi.com/blog/llms-vs-serpapi/)
 - [Using Walmart Search Engine Results API from SerpApi](https://serpapi.com/blog/using-walmart-search-api-from-serpapi/)
 - [Announcing our new library for JavaScript and TypeScript](https://serpapi.com/blog/announcing-our-new-library-for-javascript-and-typescript/)
 - [Analyzing the Distribution of Problems in Competition Reviews](https://serpapi.com/blog/analyzing-the-distribution-of-problems-in-competitions-reviews/)
-- [How to detect memory leak in Ruby C extension](https://serpapi.com/blog/how-to-detect-memory-leak-in-ruby-c-extension/)
-- [Using Walmart Product API from SerpApi](https://serpapi.com/blog/using-walmart-product-api-from-serpapi/)
 <!-- BLOG-POST-LIST:END -->
 
 ## My latest StackOverflow activity
