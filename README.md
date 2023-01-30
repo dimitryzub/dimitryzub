@@ -11,11 +11,11 @@ Donate to Ukraine if you can through the [United24](https://u24.gov.ua/), the in
 
 ## My & Сolleagues latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Scrape Google Search in NodeJS](https://serpapi.com/blog/scrape-google-search-in-nodejs/)
 - [Web scraping Walmart Search with Nodejs](https://serpapi.com/blog/web-scraping-walmart-search-with-nodejs/)
 - [LLMs vs SerpApi: A Comparative Analysis of the Webscraping Capabilities](https://serpapi.com/blog/llms-vs-serpapi/)
 - [Scrape Google Lens with Python](https://serpapi.com/blog/scrape-google-lens/)
 - [Using Walmart Search Engine Results API from SerpApi](https://serpapi.com/blog/using-walmart-search-api-from-serpapi/)
-- [Announcing our new library for JavaScript and TypeScript](https://serpapi.com/blog/announcing-our-new-library-for-javascript-and-typescript/)
 <!-- BLOG-POST-LIST:END -->
 
 ## My latest StackOverflow activity
