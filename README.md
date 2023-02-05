@@ -12,10 +12,10 @@ Donate to Ukraine if you can through the [United24](https://u24.gov.ua/), the in
 ## My & Сolleagues latest blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Product Comparison App &lpar;JS Demo Project&rpar;](https://serpapi.com/blog/product-comparison-app-js/)
+- [Scraping Apple App Store Search with Python](https://serpapi.com/blog/scraping-apple-app-store-search-with-python/)
 - [SerpApi Changelog: December, 2022](https://serpapi.com/blog/serpapi-changelog-december-2022/)
 - [Scrape Google Search in NodeJS](https://serpapi.com/blog/scrape-google-search-in-nodejs/)
 - [Web scraping Walmart Search with Nodejs](https://serpapi.com/blog/web-scraping-walmart-search-with-nodejs/)
-- [LLMs vs SerpApi: A Comparative Analysis of the Webscraping Capabilities](https://serpapi.com/blog/llms-vs-serpapi/)
 <!-- BLOG-POST-LIST:END -->
 
 ## My latest StackOverflow activity
