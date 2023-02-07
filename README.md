@@ -11,7 +11,7 @@ Donate to Ukraine if you can through the [United24](https://u24.gov.ua/), the in
 
 ## My & Сolleagues latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Product Comparison App &lpar;JS Demo Project&rpar;](https://serpapi.com/blog/product-comparison-app-js/)
+- [eBay Walmart Dropshipping Research Demo Tool in JavaScript](https://serpapi.com/blog/product-comparison-app-js/)
 - [Scraping Apple App Store Product Info And Reviews with Python](https://serpapi.com/blog/scraping-apple-app-store-product-info-and-reviews-with-python/)
 - [Scraping Apple App Store Search with Python](https://serpapi.com/blog/scraping-apple-app-store-search-with-python/)
 - [SerpApi Changelog: December, 2022](https://serpapi.com/blog/serpapi-changelog-december-2022/)
