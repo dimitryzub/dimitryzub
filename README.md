@@ -11,11 +11,11 @@ Donate to Ukraine if you can through the [United24](https://u24.gov.ua/), the in
 
 ## My & Сolleagues latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Scrape Google Search result and use it to enhance GPT-3](https://serpapi.com/blog/up-to-date-gpt-3-info-with/)
 - [Track Google Search Rankings and Export to a .CSV file with Node.js](https://serpapi.com/blog/tracking-google-search-rankings-and-exporting-to-a-csv-file-with-node-js/)
 - [Dropshipping Research Tool Demo in Python](https://serpapi.com/blog/dropshipping-research-tool-demo-in-python/)
 - [eBay Walmart Dropshipping Research Demo Tool in JavaScript](https://serpapi.com/blog/product-comparison-app-js/)
 - [Scraping Apple App Store Product Info And Reviews with Python](https://serpapi.com/blog/scraping-apple-app-store-product-info-and-reviews-with-python/)
-- [Scraping Apple App Store Search with Python](https://serpapi.com/blog/scraping-apple-app-store-search-with-python/)
 <!-- BLOG-POST-LIST:END -->
 
 ## My latest StackOverflow activity
