@@ -11,11 +11,11 @@ Donate to Ukraine if you can through the [United24](https://u24.gov.ua/), the in
 
 ## My & Сolleagues latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Nokolexbor - a performance-focused HTML parser for Ruby](https://serpapi.com/blog/nokolexbor-a-performance-focused-html-parser-for-ruby/)
 - [How to Scrape Google Search Results &lpar;SERPs&rpar; - 2023 Guide](https://serpapi.com/blog/how-to-scrape-google-search-results-serps-2023-guide/)
 - [Scrape Google Search result and use it to enhance GPT-3](https://serpapi.com/blog/up-to-date-gpt-3-info-with/)
 - [Track Google Search Rankings and Export to a .CSV file with Node.js](https://serpapi.com/blog/tracking-google-search-rankings-and-exporting-to-a-csv-file-with-node-js/)
 - [Dropshipping Research Tool Demo in Python](https://serpapi.com/blog/dropshipping-research-tool-demo-in-python/)
-- [eBay Walmart Dropshipping Research Demo Tool in JavaScript](https://serpapi.com/blog/product-comparison-app-js/)
 <!-- BLOG-POST-LIST:END -->
 
 ## My latest StackOverflow activity
