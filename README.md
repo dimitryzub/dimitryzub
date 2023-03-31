@@ -11,11 +11,11 @@ Donate to Ukraine if you can through the [United24](https://u24.gov.ua/), the in
 
 ## My & Сolleagues latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [SerpApi Pagination](https://serpapi.com/blog/serpapi-pagination/)
 - [Building a Node.js Proxy Server](https://serpapi.com/blog/adding-a-node-js-backend-to-handle-api-interactions-for-a-frontend-application/)
 - [How to Extract Bing News Data with SerpApi and Python](https://serpapi.com/blog/how-to-extract-bing-news-data-with-serpapi-and-python/)
 - [Scraping Bing Organic Results using Python and SerpApi](https://serpapi.com/blog/scraping-bing-organic-results-using-python-and-serpapi/)
 - [SerpApi Changelog: February, 2023](https://serpapi.com/blog/serpapi-changelog-february-2023/)
-- [SerpApi Changelog: January, 2023](https://serpapi.com/blog/serpapi-changelog-january-2023/)
 <!-- BLOG-POST-LIST:END -->
 
 ## My latest StackOverflow activity
