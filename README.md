@@ -20,9 +20,9 @@ Donate to Ukraine if you can through the [United24](https://u24.gov.ua/), the in
 
 ## My latest StackOverflow activity
 <!-- STACKOVERFLOW:START -->
+- [Answer by Dmitriy Zub for Scraping next pages Google Scholar profile](https://stackoverflow.com/questions/75879886/scraping-next-pages-google-scholar-profile/75916554#75916554)
 - [Answer by Dmitriy Zub for How to scrape multiple products on Google Shopping with Python?](https://stackoverflow.com/questions/69606777/how-to-scrape-multiple-products-on-google-shopping-with-python/75742092#75742092)
 - [Answer by Dmitriy Zub for is there any way to extract place details in google maps API?](https://stackoverflow.com/questions/74600323/is-there-any-way-to-extract-place-details-in-google-maps-api/74713933#74713933)
 - [Answer by Dmitriy Zub for How to hide the name of the last person edited the line?](https://stackoverflow.com/questions/74258777/how-to-hide-the-name-of-the-last-person-edited-the-line/74261357#74261357)
 - [Answer by Dmitriy Zub for How does Google Finance update stock prices?](https://stackoverflow.com/questions/16485511/how-does-google-finance-update-stock-prices/74042072#74042072)
-- [Answer by Dmitriy Zub for Python: want to scrape first row &lpar;&lt;tr&gt;&rpar; of each table](https://stackoverflow.com/questions/74040999/python-want-to-scrape-first-row-tr-of-each-table/74041552#74041552)
 <!-- STACKOVERFLOW:END -->
