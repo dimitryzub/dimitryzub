@@ -11,11 +11,11 @@ Donate to Ukraine if you can through the [United24](https://u24.gov.ua/), the in
 
 ## My & Сolleagues latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Open Source Review Analyzer Chrome Extension for ChatGPT](https://serpapi.com/blog/review-analyzer/)
 - [Get Product Data from Bing Shopping with Python and SerpApi](https://serpapi.com/blog/get-product-data-from-bing-shopping/)
 - [Global SEO: Strategies for International Success](https://serpapi.com/blog/global-seo-strategies-for-international-success/)
 - [JavaScript Hotels Parser](https://serpapi.com/blog/javascript-hotels-parser/)
 - [Real World Example of GPS Targeted Local SERP](https://serpapi.com/blog/gps-targeted-local-serp/)
-- [SerpApi Changelog: March, 2023](https://serpapi.com/blog/changelog-march-2023/)
 <!-- BLOG-POST-LIST:END -->
 
 ## My latest StackOverflow activity
