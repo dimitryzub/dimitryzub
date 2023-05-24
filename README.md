@@ -11,11 +11,11 @@ Donate to Ukraine if you can through the [United24](https://u24.gov.ua/), the in
 
 ## My & Сolleagues latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Make Direct Async Requests to SerpApi with Python](https://serpapi.com/blog/make-direct-async-requests-to-serpapi-with-python/)
 - [SerpApi Changelog: April, 2023](https://serpapi.com/blog/serpapi-changelog-april-2023/)
 - [How to Scrape Yahoo Search Results](https://serpapi.com/blog/how-to-scrape-yahoo-search-results/)
 - [Safeguarding Web Scraping Activities with SerpApi: Protecting Privacy and Security](https://serpapi.com/blog/safeguarding-web-scraping-activities-with-serpapi-protecting-privacy-and-security/)
 - [Scrape Google Maps Results with Javascript - Google Maps API Guide](https://serpapi.com/blog/scrape-google-maps-results-with-javascript-google-maps-api-guide/)
-- [Python SEO Keyword Research Tool: Google Autocomplete, People Also Ask and Related Searches](https://serpapi.com/blog/python-seo-keyword-research-tool/)
 <!-- BLOG-POST-LIST:END -->
 
 ## My latest StackOverflow activity
