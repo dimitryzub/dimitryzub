@@ -11,11 +11,11 @@ Donate to Ukraine if you can through the [United24](https://u24.gov.ua/), the in
 
 ## My & Сolleagues latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Ultimate Guide to Google Search Operators &lpar;2023 Guide&rpar;](https://serpapi.com/blog/ultimate-guide-to-google-search-operators-2023-guide/)
 - [Is Bing Chat Public?](https://serpapi.com/blog/is-bing-chat-public/)
 - [How to Scrape Yandex Search Results](https://serpapi.com/blog/how-to-scrape-yandex-search-results/)
 - [Scrapping Naver Images results with Python](https://serpapi.com/blog/scrapping-naver-images-results/)
 - [Make Direct Async Requests to SerpApi with Python](https://serpapi.com/blog/make-direct-async-requests-to-serpapi-with-python/)
-- [SerpApi Changelog: April, 2023](https://serpapi.com/blog/serpapi-changelog-april-2023/)
 <!-- BLOG-POST-LIST:END -->
 
 ## My latest StackOverflow activity
