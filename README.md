@@ -24,5 +24,5 @@ Donate to Ukraine if you can through the [United24](https://u24.gov.ua/), the in
 - [Answer by Dmitriy Zub for How to scrape multiple products on Google Shopping with Python?](https://stackoverflow.com/questions/69606777/how-to-scrape-multiple-products-on-google-shopping-with-python/75742092#75742092)
 - [Answer by Dmitriy Zub for is there any way to extract place details in google maps API?](https://stackoverflow.com/questions/74600323/is-there-any-way-to-extract-place-details-in-google-maps-api/74713933#74713933)
 - [Answer by Dmitriy Zub for How to hide the name of the last person edited the line?](https://stackoverflow.com/questions/74258777/how-to-hide-the-name-of-the-last-person-edited-the-line/74261357#74261357)
-- [Answer by Dmitriy Zub for How does Google Finance update stock prices?](https://stackoverflow.com/questions/16485511/how-does-google-finance-update-stock-prices/74042072#74042072)
+- [Answer by Dmitriy Zub for Beautiful Soup not returning anything I expected](https://stackoverflow.com/questions/65158345/beautiful-soup-not-returning-anything-i-expected/74039427#74039427)
 <!-- STACKOVERFLOW:END -->
