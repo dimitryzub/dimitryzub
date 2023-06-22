@@ -11,11 +11,11 @@ Donate to Ukraine if you can through the [United24](https://u24.gov.ua/), the in
 
 ## My & Сolleagues latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Real World Example of AI Powered Parsing](https://serpapi.com/blog/real-world-example-of-ai-powered-parsing/)
 - [How to scrape Yelp results](https://serpapi.com/blog/how-to-scrape-yelp-results/)
 - [How to scrape Bing search results](https://serpapi.com/blog/how-to-scrape-bing-search-results/)
 - [How to get Bing Shopping Search Results in JSON](https://serpapi.com/blog/how-to-get-bing-shopping-search-results-in-json/)
 - [About Location Parameters](https://serpapi.com/blog/location/)
-- [Filtering Google Images and Google Videos results](https://serpapi.com/blog/filtering-google-images-and-google-videos-results/)
 <!-- BLOG-POST-LIST:END -->
 
 ## My latest StackOverflow activity
