@@ -11,11 +11,11 @@ Donate to Ukraine if you can through the [United24](https://u24.gov.ua/), the in
 
 ## My & Сolleagues latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Google Trends Real Time Search Trends in Python](https://serpapi.com/blog/google-trends-real-time-searches/)
 - [Mastering SerpApi: An In-depth Features, Best Practices, and Competitive Edge](https://serpapi.com/blog/mastering-serpapi-podcast-episode-11/)
 - [Scrape Bing Answer Box with Python](https://serpapi.com/blog/scrape-bing-answer-box-with-python/)
 - [Paginating, Sorting, and Filtering with the YouTube API](https://serpapi.com/blog/youtube-sp-filters-paginating-sorting-and-filtering-with-the-youtube-api/)
 - [Cold Email Marketing with Open-Source Email Extractor](https://serpapi.com/blog/cold-email-marketing-with-open-source-email-extractor/)
-- [Unlocking Insights: Analyzing Google Reviews with LLMs](https://serpapi.com/blog/google-reviews-analyzer/)
 <!-- BLOG-POST-LIST:END -->
 
 ## My latest StackOverflow activity
