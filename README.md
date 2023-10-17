@@ -11,11 +11,11 @@ Donate to Ukraine if you can through the [United24](https://u24.gov.ua/), the in
 
 ## My & Сolleagues latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to scrape Google search results with Python](https://serpapi.com/blog/how-to-scrape-google-search-results-with-python/)
 - [Get images you can &lpar;legally&rpar; use without any charge for your next project](https://serpapi.com/blog/get-images-you-can-use-without-any-charge/)
 - [How to Scrape Google News Results](https://serpapi.com/blog/how-to-scrape-google-news/)
 - [How to scrape Walmart products](https://serpapi.com/blog/how-to-scrape-walmart-products/)
 - [What is Pixel Ranking?](https://serpapi.com/blog/what-is-pixel-ranking-2/)
-- [How to scrape Google Maps Reviews](https://serpapi.com/blog/how-to-scrape-google-maps-reviews/)
 <!-- BLOG-POST-LIST:END -->
 
 ## My latest StackOverflow activity
